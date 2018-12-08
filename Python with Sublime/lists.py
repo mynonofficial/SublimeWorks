@@ -32,3 +32,7 @@ print(thislist)
 
 del thislist[0]
 print(thislist)
+
+#The clear() method empties the list:
+thislist.clear()
+print(thislist)
